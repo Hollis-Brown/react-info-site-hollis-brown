@@ -131,7 +131,7 @@ ReactDOM.render(page, document.getElementById("root"))
     5. What does it mean for something to be "composable"?
         - It means that components or elements can be combined or nested together to create more complex and reusable structures.
 
-### Vid 
+### Vid 17
 - Challenge: 
     - Part 1: Create a page of your own using a custom Page component
         - It should return an ordered list with the reasons why you're excited to be learning React.
@@ -153,7 +153,7 @@ function Page() {
 ReactDOM.render(<Page />, document.getElementById("root"))
 ```
 
-### Vid 
+### Vid 18
 - Challenge: 
     - Part 2: 
         - Add a `header` element with a nested `nav` element. Inside the `nav`, include a `img` element with the image of the React logo inside (`src="./react-logo.png"`) and make sure to set the width to something more manageable so it doesn't take up the whole screen
@@ -187,7 +187,7 @@ function Page() {
 
 ReactDOM.render(<Page />, document.getElementById("root"))
 ```
-### Vid 
+### Vid 19
 - Quiz!
   1. What is a React component?
       - A piece of reusable code that is in the form of a function which is self-contained in a file with exportation syntax for importing into another file.
